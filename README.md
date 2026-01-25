@@ -47,26 +47,19 @@ I bridge the gap between complex infrastructure and seamless delivery.
 
 ### Amazon Web Services (AWS)
 
-* **AWS Certified Solutions Architect – Associate** (Issued Jan 2026) 
+* **[AWS Certified Solutions Architect – Associate** (Issued Jan 2026)] (https://www.credly.com/badges/7a7e350b-03a8-4bc5-ab69-ef3064bab2e2/public_url)
 
 
-* **AWS Certified Cloud Practitioner** (Issued Jan 2025) 
+* **[AWS Certified Cloud Practitioner** (Issued Jan 2025)] (http://credly.com/badges/fba4d5a8-f549-40da-a6e1-2accd012ca6a)
 
 
 
 ### DevOps & AI
 
-* **DevOps Engineering - Planning to Production** | GeeksforGeeks (Aug 2025) 
+* **[DevOps Engineering - Planning to Production** | GeeksforGeeks (Aug 2025)] (https://media.geeksforgeeks.org/courses/certificates/d03f7ef45718278fd77d67a926dadd73.pdf)
 
 
 * **Generative AI in Practice** 
-
-
-* **Ansible for the Absolute Beginner - Hands-On** 
-
-
-* **Google Gemini: Workspace Apps Automation/AI** 
-
 
 
 ---
