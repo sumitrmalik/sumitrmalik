@@ -1,4 +1,4 @@
-# [Sumit Malik](https://www.google.com/search?q=https://linkedin.com/in/sumit-r-malik/)
+# [Sumit Malik](https://linkedin.com/in/sumit-r-malik/)
 
 DevOps Engineer, AWS Certified Solutions Architect, and Infrastructure Automation enthusiast. I specialize in building resilient cloud architectures with a heavy focus on AWS, Kubernetes, and high-availability systems. 
 
@@ -43,7 +43,7 @@ I bridge the gap between complex infrastructure and seamless delivery.
 
 ---
 
-## 🎓 Certifications
+## 🎓 [Certifications](https://www.credly.com/users/sumit-r-malik)
 
 ### Amazon Web Services (AWS)
 
@@ -113,7 +113,7 @@ I actively leverage AI-powered tools like GitHub Copilot and ChatGPT to accelera
 * **Email:** [malik.r.sumit@gmail.com](mailto:malik.r.sumit@gmail.com) 
 
 
-* **LinkedIn:** [linkedin.com/in/sumit-r-malik/](https://www.google.com/search?q=https://linkedin.com/in/sumit-r-malik/) 
+* **LinkedIn:** [linkedin.com/in/sumit-r-malik/](https://linkedin.com/in/sumit-r-malik/) 
 
 
 * **Location:** Gurgaon, Haryana, India 
