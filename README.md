@@ -52,7 +52,12 @@ I bridge the gap between complex infrastructure and seamless delivery.
 
 * [**AWS Certified Cloud Practitioner**](http://credly.com/badges/fba4d5a8-f549-40da-a6e1-2accd012ca6a) (Issued Jan 2025)
 
-
+<a href="https://certdirectory.io/profile/sumit-r-malik?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/sumit-r-malik.svg?style=card&theme=dark">
+    <img alt="Sumit Malik on CertDirectory" src="https://certdirectory.io/badge/sumit-r-malik.svg?style=card">
+  </picture>
+</a>
 
 ### DevOps & AI
 
